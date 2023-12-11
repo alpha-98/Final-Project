@@ -245,7 +245,7 @@ solana program deploy target/deploy/nft_certificate.so
 
 **After deploy solana program you will get program ID**
 ```javascript 
-Program Id: 7QR25bVbaNHHd8xHexdy555SEYh45jm5cV1mwNBHHghg
+Program Id: 8kwGW6EuwMzC9vyA6ZEDF73mviY6mfJqY2LZAJubpfAq
 ```
 
 # Install Required Dependencies
